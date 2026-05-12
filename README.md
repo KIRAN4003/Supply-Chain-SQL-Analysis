@@ -222,8 +222,6 @@ BCA Graduate | PGP in Data Science & Generative AI — Great Learning, Bangalore
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kiran-u-471818325/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/KIRAN4003)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kirankiranu791@gmail.com)
-
 ---
 
 ⭐ **If you found this project useful, please give it a star!**
