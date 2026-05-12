@@ -132,7 +132,7 @@ Supply-Chain-SQL-Analysis/
 │   ├── top_customers.png         ← Top customers by spending
 │   └── business_summary.png      ← Complete business dashboard
 │
-└── README_Supply_Chain.md
+└── README.md
 ```
 
 ---
